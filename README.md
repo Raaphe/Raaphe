@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 Based in Montreal, graduated at Cégep Marie-Victorin in 2025 in Computer Science<br>
-🔭 I’m currently working on BCI Project<br>🤖 I’m currently learning ORICA Algorithm<br>🤓 Working in Software Development since 2022<br>🔬 Will be attending UdeS in fall 2026
+🤓 Working in Software Development since 2022<br>🔬 Will be attending Concordia University in fall 2026
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raphaelpaquin19@gmail.com) 
